@@ -1,6 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Perform analysis on Kickstarter data to uncover trends
-/will pledge ~$12000
+
+Louise is planning on a theatrical play campaign located in the U.S.
 
 ## Category Outcomes
 ![Parent Category Outcomes](https://github.com/vyu821/kickstarter-analysis/blob/master/Parent%20Category%20Outcomes.png?raw=true)
