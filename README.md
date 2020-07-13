@@ -12,3 +12,8 @@ We can see here that the best Kickstarter categories for the U.S. would be music
 
 Looking at this chart, we can see that the most successful theater Kickstarter campaigns were started in May. 
 On the contrary, December is the least successful time to start.
+
+## Great Britain Musical Plays Goals vs Pledged Amounts
+![GB Musical Campaign $ Comparisons](https://github.com/vyu821/kickstarter-analysis/blob/master/GB%20Musical%20Campaign%20$%20Comparisons.png?raw=true)
+
+Louise estimates that she will need £4000 for this project. However, the mean campaign goal is outside the range of outliers for amount pledged. Thus, Louise should try to aim for a campaign goal of less than £2000, which is just a bit more than the 3rd quartile for amounts pledged.
