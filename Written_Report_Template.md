@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Purpose
+### To perform an analysis on Kickstarter data to uncover how different campaigns dare in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
