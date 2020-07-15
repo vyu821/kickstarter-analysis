@@ -14,7 +14,9 @@
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 
-#### To find out how outcomes change based on funding goals, we need to find out the total number of success, failures, and cancellations for each funding goal. We created 
+#### To find out how outcomes change based on funding goals, we need to find out the total number of successes, failures, and cancellations for each funding goal. We created ranges for us to easily group the campaigns based on their goal amount. Next, we find the percentages of successful campaigns by dividing the number of successful campigns by the total amount of campaigns. We do this for each goal amount group and for the failed and canceled campaigns. Graphing these percentages, we can see that successful outcomes and inversely related to failed outcomes, with no campaigns being canceled.
+
+### Challenges and Difficulties Encountered
 
 ## Results
 
