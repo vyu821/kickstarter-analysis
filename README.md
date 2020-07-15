@@ -18,6 +18,8 @@
 
 ### Challenges and Difficulties Encountered
 
+#### A challenge I faced when finding the total number of success, failures, and cancellations was that I had to make sure I included all the necessary criteria in the COUNTIFS function. Incorrectly doing so gave me a different count of each type of outcome. The criteria needed to retrieve the correct count are the goal amount range, the type of outcome, and the category "plays".
+
 ## Results
 
 - We can conclude that the most successful theater campaigns had a launch date of May. Contrarily, we can see that December is the lease successful time to launch.
