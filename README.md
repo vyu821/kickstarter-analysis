@@ -19,6 +19,7 @@
 ### Challenges and Difficulties Encountered
 
 #### A challenge I faced when finding the total number of success, failures, and cancellations was that I had to make sure I included all the necessary criteria in the COUNTIFS function. Incorrectly doing so gave me a different count of each type of outcome. The criteria needed to retrieve the correct count are the goal amount range, the type of outcome, and the category "plays".
+`=COUNTIFS(Kickstarter!$H:$H,"successful",Kickstarter!$D:$D,"<1000",Kickstarter!$U:$U,"plays")`
 
 ## Results
 
@@ -26,6 +27,6 @@
 
 - Campaigns with a funding goal of less than 20,000 all had a 50% chance or higher success rate. Inversely, we can see that campaigns with a funding goal greater than 20,000 had a higher failure rate.
 
-- What are some limitations of this dataset?
+- A limitation of this dataset might be that it does not show us a specific area or city within a country. The campaign might have only been successful in an urban city compared to the suburbs. We do not know where in the country the campaign was successful.
 
-- What are some other possible tables and/or graphs that we could create?
+- A possible table we could create would be Launch Date vs Funding Goal. It could show us if more or less funding is required during a specific time or season of the year.
