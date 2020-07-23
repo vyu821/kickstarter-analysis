@@ -19,6 +19,7 @@ To find out how outcomes change based on funding goals, we need to find out the 
 ### Challenges and Difficulties Encountered
 
 A challenge I faced when finding the total number of success, failures, and cancellations was that I had to make sure I included all the necessary criteria in the COUNTIFS function. Incorrectly doing so gave me a different count of each type of outcome. The criteria needed to retrieve the correct count are the goal amount range, the type of outcome, and the category "plays".
+
 `=COUNTIFS(Kickstarter!$H:$H,"successful",Kickstarter!$D:$D,"<1000",Kickstarter!$U:$U,"plays")`
 
 ## Results
